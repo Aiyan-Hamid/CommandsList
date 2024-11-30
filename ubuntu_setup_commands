@@ -1,0 +1,1 @@
+lsb_release -cd ; hostname ; hostname -I ; whoami ; getconf LONG_BIT ; apt install -y build-essential software-properties-common curl gdebi net-tools wget curl sqlite3 dirmngr nano lsb-release apt-transport-https leafpad git sudo unzip socat bash-completion checkinstall imagemagick openssl
